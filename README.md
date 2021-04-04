@@ -3,4 +3,6 @@
 # React를 공부해보자
 
 ## Make Simple Project
+
 - [TodoList](TodoList)
+- [Tic-Tac-Toe](tic-tac-toe)
