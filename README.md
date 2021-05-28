@@ -4,9 +4,7 @@
 
 ## Make Simple Project
 
-- [TodoList](TodoList)
-- [Tic-Tac-Toe](tic-tac-toe)
-- [tutorial-API](tutorial-API)
-- **Counter**
-  - [Basic](Counter/Basic-Counter)
-  - [Use Redux](Counter/Redux-Counter)
+- [Counter](/Counter)
+- [TodoList](/TodoList)
+- [Select-Color](/Select-Color)
+- [tutorial-API](/tutorial-API)
